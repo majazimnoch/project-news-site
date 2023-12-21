@@ -1,7 +1,7 @@
 # My First Website: Learning Web Development Basics
 
 ## Overview
-Welcome to my first website project! This endeavor is a testament to my journey in learning the essentials of web development. Through this website, I aim to showcase my newfound skills in HTML and CSS, emphasizing page structure, styling techniques (<bold> including the Box Model, Grid, and Flexbox </bold>), <bold> responsiveness </bold> across various devices, and the principles of writing clean and <bold> efficient </bold> code.
+Welcome to my first website project! This endeavor is a testament to my journey in learning the essentials of web development. Through this website, I aim to showcase my newfound skills in HTML and CSS, emphasizing page structure, styling techniques (including the Box Model, Grid, and Flexbox), responsiveness across various devices, and the principles of writing clean and efficient code.
 
 ## News Site
 
